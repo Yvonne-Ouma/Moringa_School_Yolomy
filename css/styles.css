@@ -35,7 +35,7 @@
     color:whitesmoke;
 }
 h1{
-    padding: 30px;
+    padding-left: 20px;
     color: white;
     font-size: 60px;
 }
@@ -46,7 +46,6 @@ h2{
     font-size:70px; 
 }
 #good{
-    /* border: #A69E73; */
     padding-left:20px;
 }
 #h{
@@ -85,7 +84,7 @@ nav>ul>li>a {
     background-color: #6B1000;
     border: none;
     color: white;
-    padding: 15px 32px;
+    padding: 10px 28px;
     text-align: center;
     text-decoration: none;
     display: inline-block;
@@ -104,4 +103,36 @@ nav>ul>li>a {
 }
 fieldset{
     border:3px solid  #7D7557;
+}
+#Product1{
+    background-color: #E4E4E4;
+    height:350px;
+}
+#shirt{
+    background-color: #E4E4E4;
+    height:350px;
+
+}
+#pants{
+    background-color: #E4E4E4;
+    height:350px;
+}
+#backpack{
+    background-color: #E4E4E4;
+    height:350px;
+}
+#trekkingshoes{
+    background-color: #E4E4E4;
+    height:350px;
+}
+#tshirt_ladies{
+    background-color: #E4E4E4;
+    height:350px;
+}
+.women_fashion{
+    padding-bottom: 70px;
+    padding-top: 40px;
+}
+.men_fashion{
+    padding-top: 40px;
 }
