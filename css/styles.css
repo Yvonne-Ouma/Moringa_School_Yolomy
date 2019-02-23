@@ -81,8 +81,17 @@ nav>ul>li>a {
     padding-top: 35px;
     padding-bottom: 30px;
 }
-button{
+.button{
     background-color: #6B1000;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    font-size: 16px;
+    margin: 4px 2px;
+    cursor: pointer;
 }
  .container-fluid {
      padding-right: 0px;
